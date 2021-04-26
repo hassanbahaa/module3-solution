@@ -1,0 +1,25 @@
+*{
+    color: #000;
+}
+
+a,a:hover,a:focus{
+    text-decoration: none;
+}
+
+
+/* navbar */
+.navbar{
+    background-color: #989798;
+    border-bottom: 2px solid #000;
+}
+
+.page-header{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+
+.content-container{
+    background-color: #989798;
+    color: #000;
+}
